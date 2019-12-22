@@ -1,5 +1,4 @@
 # PyBer_Analysis
-Module 5
 
 ## Dataframe Summary
 ![Population Type Summary](https://github.com/Calistic/PyBer_Analysis/blob/master/Analysis/SummaryDF.PNG)
@@ -22,3 +21,5 @@ This summary aligns with our intuition of how Rural, Suburban, and Urban populat
 - There is an interesting spike in ridership the third week of February across every population type.
   - Implication: We should also compare this spike across multiple years to see if it is predictable. We should ensure we have more drivers during this time to keep customers happy. We may want to ensure our servers can handle this excess load.
 - The graph shows that Urban populations generate the most revenue, while Rural populations generate the least revenue
+
+## Challenge
