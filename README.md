@@ -1,6 +1,6 @@
-# PyBer_Analysis
+# Ridesharing Analysis
 
-## Dataframe Summary
+## Summary
 ![Population Type Summary](https://github.com/Calistic/PyBer_Analysis/blob/master/Analysis/SummaryDF.PNG)
 
 This summary aligns with our intuition of how Rural, Suburban, and Urban population types compare to eachother.
